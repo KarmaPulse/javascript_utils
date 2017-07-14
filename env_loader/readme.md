@@ -1,4 +1,4 @@
-# ENV PARSER
+# ENV LOADER
 
 Util that loads environment variables from a .env file into process.env.
 
